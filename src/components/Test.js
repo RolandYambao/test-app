@@ -12,7 +12,6 @@ class Test extends Component {
                 <p>Test</p>
             </div>
         );
-
     }
 }
 
